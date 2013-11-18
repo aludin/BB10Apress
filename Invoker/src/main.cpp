@@ -11,7 +11,7 @@ using namespace bb::cascades;
 
 Q_DECL_EXPORT int main(int argc, char **argv)
 {
-
+	// test
 	Application app(argc, argv);
 	qmlRegisterType<AppInvoker>("com.ludin.utils", 1, 0, "AppInvoker");
 
