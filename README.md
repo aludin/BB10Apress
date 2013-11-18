@@ -1,8 +1,8 @@
 BB10Apress
 ==========
 
-Code samples for learn BlackBerry 10 programming
+Code samples for learning BlackBerry 10 programming
 
-- Invoker:
+Invoker:
 
 Shows how to call target applications using the invocation framework.
