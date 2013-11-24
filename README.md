@@ -1,6 +1,8 @@
 BB10Apress
 ==========
 
-Code samples for learning BlackBerry 10 programming
+Code samples for "Learn BlackBerry 10 Apps Development" published by APress.
 
-Invoker: shows you how to call target applications using the invocation framework. See chapter 10
+HelloCascades: teaches you how to deploy a simple application on the Simulator and the device. See Chapter 1
+
+Invoker: shows you how to call target applications using the invocation framework. See Chapter 10
