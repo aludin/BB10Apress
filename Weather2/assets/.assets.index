@@ -1,6 +1,7 @@
 1
-4
-images/clear.gif
-images/geneva.png
-keys/wunderground.json
+5
+apikey/wunderground.json
+images/background.jpg
 main.qml
+WeatherDetails.qml
+WeatherMap.qml
