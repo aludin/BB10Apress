@@ -3,44 +3,26 @@ BASEDIR =  $$quote($$_PRO_FILE_PWD_)
 
 device {
     CONFIG(debug, debug|release) {
-        SOURCES +=  $$quote($$BASEDIR/src/CityInfo.cpp) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.cpp) \
-                 $$quote($$BASEDIR/src/WeatherClient.cpp) \
-                 $$quote($$BASEDIR/src/applicationui.cpp) \
+        SOURCES +=  $$quote($$BASEDIR/src/applicationui.cpp) \
                  $$quote($$BASEDIR/src/main.cpp)
 
-        HEADERS +=  $$quote($$BASEDIR/src/CityInfo.h) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.h) \
-                 $$quote($$BASEDIR/src/WeatherClient.h) \
-                 $$quote($$BASEDIR/src/applicationui.hpp)
+        HEADERS +=  $$quote($$BASEDIR/src/applicationui.hpp)
     }
 
     CONFIG(release, debug|release) {
-        SOURCES +=  $$quote($$BASEDIR/src/CityInfo.cpp) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.cpp) \
-                 $$quote($$BASEDIR/src/WeatherClient.cpp) \
-                 $$quote($$BASEDIR/src/applicationui.cpp) \
+        SOURCES +=  $$quote($$BASEDIR/src/applicationui.cpp) \
                  $$quote($$BASEDIR/src/main.cpp)
 
-        HEADERS +=  $$quote($$BASEDIR/src/CityInfo.h) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.h) \
-                 $$quote($$BASEDIR/src/WeatherClient.h) \
-                 $$quote($$BASEDIR/src/applicationui.hpp)
+        HEADERS +=  $$quote($$BASEDIR/src/applicationui.hpp)
     }
 }
 
 simulator {
     CONFIG(debug, debug|release) {
-        SOURCES +=  $$quote($$BASEDIR/src/CityInfo.cpp) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.cpp) \
-                 $$quote($$BASEDIR/src/WeatherClient.cpp) \
-                 $$quote($$BASEDIR/src/applicationui.cpp) \
+        SOURCES +=  $$quote($$BASEDIR/src/applicationui.cpp) \
                  $$quote($$BASEDIR/src/main.cpp)
 
-        HEADERS +=  $$quote($$BASEDIR/src/CityInfo.h) \
-                 $$quote($$BASEDIR/src/GoogleMapClient.h) \
-                 $$quote($$BASEDIR/src/WeatherClient.h) \
-                 $$quote($$BASEDIR/src/applicationui.hpp)
+        HEADERS +=  $$quote($$BASEDIR/src/applicationui.hpp)
     }
 }
 
