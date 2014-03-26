@@ -1,0 +1,65 @@
+[
+	{
+		"name" : "John F. Kennedy",
+		"born" : "May 29, 1917",
+		"spouse" : "Jacqueline Kennedy",
+		"pic" : "kennedy.jpg",
+		"job" : "president"
+	},
+	{
+		"name" : "Bill Clinton",
+		"born" : "August 19, 1946",
+		"spouse" : "Hillary Rodham Clinton",
+		"pic" : "clinton.jpg",
+		"job" : "president"
+	},
+	{
+		"name" : "John Wayne",
+		"born" : "May 26, 1907",
+		"spouse" : "Pilar Pallete",
+		"pic" : "wayne.jpg",
+		"job" : "actor"
+	},
+	{
+		"name" : "Kirk Douglas",
+		"born" : "December 9, 1916",
+		"spouse" : "Anne Buydens",
+		"pic" : "douglas.jpg",
+		"job" : "actor"
+	},
+	{
+		"name" : "Clint Eastwood",
+		"born" : "May 31, 1930",
+		"spouse" : "Dina Eastwood",
+		"pic" : "eastwood.jpg",
+		"job" : "actor"
+	},
+	{
+		"name" : "Spency Tracy",
+		"born" : "Apir 5, 1900",
+		"spouse" : "Louise Treadwell",
+		"pic" : "tracy.jpg",
+		"job" : "actor"
+	},
+	{
+		"name" : "Lee Van Cleef",
+		"born" : "January 9, 1925",
+		"spouse" : "Barbara Havelone",
+		"pic" : "vancleef.jpg",
+		"job" : "actor"
+	},
+	{
+		"name" : "George Bush",
+		"born" : "July 6, 1946",
+		"spouse" : "Laura Bush",
+		"pic" : "bush.jpg",
+		"job" : "president"
+	},
+	{
+		"name" : "Barack Obama",
+		"born" : "August 4, 1961",
+		"spouse" : "Michelle Obama",
+		"pic" : "obama.jpg",
+		"job" : "president"
+	}
+]

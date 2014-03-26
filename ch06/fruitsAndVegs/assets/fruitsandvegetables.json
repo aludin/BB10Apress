@@ -1,0 +1,50 @@
+[
+	{
+		"name" : "apple",
+		"description" : "fruit",
+		"available" : "false"
+	},
+	{	"name" : "ananas",
+		"description" : "fruit",
+		"available" : "true"
+	},
+	{	"name" : "avocado",
+		"description" : "fruit",
+		"available" : "false"
+	},
+	{
+		"name" : "banana",
+		"description" : "fruit",
+		"available" : "false"
+	},
+	{ 	"name" : "broccoli",
+		"description": "vegetable",
+		"available" : "true"
+	},
+	{
+		"name" : "peach",
+		"description" : "fruit",
+		"available" : "true"
+	},
+	{
+		"name" : "pumpkin",
+		"description" : "vegetable",
+		"available" : "true"
+	},
+	{
+		"name" : "eggplant",
+		"description" : "vegetable",
+		"available" : "true"
+	},
+	{
+		"name" : "tangerine",
+		"description" : "fruit",
+		"available" : "true"
+	},
+	{
+		"name" : "mango",
+		"description" : "fruit",
+		"available" : "true"
+	}
+]
+    
