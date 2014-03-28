@@ -16,7 +16,7 @@ Your first cascades app. Shows you how to deploy an app on the device and the si
 Illustrates the QML language by building a simple custom control for visualizing a person's details as provided by company directories. 
 
 ####SCalc
-Shows you how you can use a JavaScript library in QML by creating an extremely basic calculator. The calculator app is also available on BlackBerry world.
+Shows you how to use a JavaScript library from QML by creating an extremely basic calculator. The calculator app is also available on BlackBerry world.
 
 
 ###chap03
@@ -32,18 +32,21 @@ This project shows you how to create a ListView and customize its appearance by 
 
 ###chap07
 ####Weather2
+Illustrates http networking and asynchonous network requests by building a simple weather client app. The app uses the http://www.wunderground.com service. You will need to get a free developer's key in order to access the service. The project also emphasizes best practices by breaking down your app in C++ classes with delimited responsabilities. 
 
 ###chap08
 ####addressbook
+A clone of the BlackBerry 10 addressbook sample. This version uses asynchronous searches to get the job done
 
 ###chap09
 ####Sensors
-
+Shows you how to use the device's sensors such as the accelerometer and gyroscope.
 ###chap10
 ####Invoker
+Illustrates the invocation framework by showing you how to call various BB10 core apps. 
 
 ####InvokerTarget
-
+Illustrates how to make your own app invocable using the invocation framework
 
 
 
