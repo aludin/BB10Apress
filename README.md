@@ -3,7 +3,7 @@ BB10Apress
 
 Code samples for "Learn BlackBerry 10 App Development" published by Apress.
 
-You can also follow me on twitter (@bigludinski) in order to be notified when the code is updated additional material is made available. 
+You can also follow me on twitter (@bigludinski) in order to be notified when the code is updated or additional material is made available. 
 
 Happy Cascades coding! 
 
