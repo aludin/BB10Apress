@@ -2,8 +2,8 @@ BB10Apress
 ==========
 
 Code samples for "Learn BlackBerry 10 App Development" published by Apress.
-Make sure to check for the latest version of the code samples on the project's github repository located at https://github.com/aludin/BB10Apress.
-You can also dowload from there the latest version of the the code or clone the repository. Finally you can follow me on twitter (@bigludinski) in order to be notified when the code is updated or when additional material is made available. 
+
+You can also follow me on twitter (@bigludinski) in order to be notified when the code is updated additional material is made available. 
 
 Happy Cascades coding! 
 
