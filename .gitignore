@@ -1,3 +1,20 @@
 *.o
-*/arm/*
-*/x86/*
+arm/
+o/
+x86/
+
+# Visual Studio Plugin temporary compilation files and flags
+
+*.suo
+Device-Debug/
+Device-Release/
+
+Samples.opensdf
+Samples.sdf
+
+installedApps.txt
+localManifest.mf
+targetFileMap.txt
+vsndk-compile-ran.flag
+vsndk-runinfo.flag
+

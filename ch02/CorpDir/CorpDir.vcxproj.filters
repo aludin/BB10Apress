@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{0cfe62d7-4fd2-4e3c-8433-2db269d7c7a9}</UniqueIdentifier>
+      <Extensions>qml;js;qmljs;jpg;png;gif;bmp;ico;amd;wav;mp3;mp4</Extensions>
+    </Filter>
+    <Filter Include="Config Files">
+      <UniqueIdentifier>{5bc011b8-f68a-4eba-992c-1b97ee8eddb3}</UniqueIdentifier>
+      <Extensions>pri;pro;mk;properties;project;cproject;xml;xsd;bat;cmd;ps;ps1</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89c89480-9059-4661-8e57-f7a40a8b2a3e}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;asm;h;hpp;hxx;hm;def;inl;inc</Extensions>
+    </Filter>
+    <Filter Include="Translations">
+      <UniqueIdentifier>{c8ac8698-a3bf-4ea0-9253-3e761440a58a}</UniqueIdentifier>
+      <Extensions>ts;qm</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bar-descriptor.xml">
+      <Filter>Config Files</Filter>
+    </None>
+    <None Include="config.pri">
+      <Filter>Config Files</Filter>
+    </None>
+    <None Include="CorpDir.pro">
+      <Filter>Config Files</Filter>
+    </None>
+    <None Include="icon.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Makefile" />
+    <None Include="assets\.assets.index">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="assets\johnsmith.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="assets\main.qml">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="assets\PersonEntry.qml">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="translations\CorpDir.pro">
+      <Filter>Translations</Filter>
+    </None>
+    <None Include="translations\CorpDir.qm">
+      <Filter>Translations</Filter>
+    </None>
+    <None Include="translations\CorpDir.ts">
+      <Filter>Translations</Filter>
+    </None>
+    <None Include="translations\Makefile">
+      <Filter>Translations</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="precompiled.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\applicationui.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\applicationui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
