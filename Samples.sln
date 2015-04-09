@@ -1,0 +1,133 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40302.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloCascades", "ch01\HelloCascades\HelloCascades.vcxproj", "{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch01", "ch01", "{41765C99-D20F-40EE-931A-FA902CCA5739}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch02", "ch02", "{8A2011B1-12FA-447B-A0A8-645C0BB20402}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CorpDir", "ch02\CorpDir\CorpDir.vcxproj", "{7139899F-8885-4BC9-893D-DC5CED1F0F74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCalc", "ch02\SCalc\SCalc.vcxproj", "{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Instruments", "ch03\Instruments\Instruments.vcxproj", "{69AE4715-EEA0-4388-A9A1-197E59D5D25A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch03", "ch03", "{21CAE67D-5D52-4D8B-B415-17BF05178E10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch06", "ch06", "{649B9474-7FA2-4D89-B9AD-2C5D760B1D94}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FruitsAndVegs", "ch06\fruitsAndVegs\FruitsAndVegs.vcxproj", "{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "People", "ch06\People\People.vcxproj", "{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch07", "ch07", "{7EA3381C-745E-4B5D-8CBB-EA41A4CE8EBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Weather2", "ch07\Weather2\Weather2.vcxproj", "{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch08", "ch08", "{211C5E6C-E67E-4397-B37F-AE6CCB966547}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddressBook", "ch08\addressbook\AddressBook.vcxproj", "{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch09", "ch09", "{9EF7F280-E3AB-4028-8DDA-46981639DEAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sensors", "ch09\Sensors\Sensors.vcxproj", "{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ch10", "ch10", "{6BB3C0E0-1227-43D2-8D84-10372348E47D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Invoker", "ch10\Invoker\Invoker.vcxproj", "{786305A8-4446-453E-9C3D-6E5491CEF0F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InvokerTarget", "ch10\InvokerTarget\InvokerTarget.vcxproj", "{6D5E409D-90B5-4BC9-B854-83AD02B7D210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|BlackBerry = Debug|BlackBerry
+		Release|BlackBerry = Release|BlackBerry
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Debug|BlackBerry.ActiveCfg = Debug|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Debug|BlackBerry.Build.0 = Debug|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Debug|BlackBerry.Deploy.0 = Debug|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Release|BlackBerry.ActiveCfg = Release|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Release|BlackBerry.Build.0 = Release|BlackBerry
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210}.Release|BlackBerry.Deploy.0 = Release|BlackBerry
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA513854-D1EE-47CA-9FC3-61045EB1F3B9} = {41765C99-D20F-40EE-931A-FA902CCA5739}
+		{7139899F-8885-4BC9-893D-DC5CED1F0F74} = {8A2011B1-12FA-447B-A0A8-645C0BB20402}
+		{EDE4A92B-EA0C-400E-8EE0-A63D874C7E72} = {8A2011B1-12FA-447B-A0A8-645C0BB20402}
+		{69AE4715-EEA0-4388-A9A1-197E59D5D25A} = {21CAE67D-5D52-4D8B-B415-17BF05178E10}
+		{C44CACD8-5F17-46EB-B71A-D98D8921A7CB} = {649B9474-7FA2-4D89-B9AD-2C5D760B1D94}
+		{7C8EE552-8B10-45A7-AA0C-1103E4BAD190} = {649B9474-7FA2-4D89-B9AD-2C5D760B1D94}
+		{70769FE5-2E90-46AC-A12A-CA8B2CA56B98} = {7EA3381C-745E-4B5D-8CBB-EA41A4CE8EBF}
+		{E39C4ACE-AA9F-446C-9A3B-EF77F774EDFC} = {211C5E6C-E67E-4397-B37F-AE6CCB966547}
+		{A2461D63-2BD1-4F4C-975F-8E6BB3BC8655} = {9EF7F280-E3AB-4028-8DDA-46981639DEAF}
+		{786305A8-4446-453E-9C3D-6E5491CEF0F9} = {6BB3C0E0-1227-43D2-8D84-10372348E47D}
+		{6D5E409D-90B5-4BC9-B854-83AD02B7D210} = {6BB3C0E0-1227-43D2-8D84-10372348E47D}
+	EndGlobalSection
+EndGlobal
